@@ -1,0 +1,5 @@
+
+class InvalidPurchaseException(Exception):
+
+    pass
+
